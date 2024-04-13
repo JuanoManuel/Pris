@@ -1,0 +1,21 @@
+header{
+    background-color: #BCF8EC;
+    height: 100px;
+    text-align: center;
+    font-size: 50px;
+}
+footer{
+    background-color: #AED9E0;
+    height: 100px;
+    text-align: center;
+    font-size: 50px;
+}
+.block{
+    height: 100px;
+    border-color: blue;
+    border-style: solid;
+    border-radius: 5px;
+}
+#primero{
+    background-color: #AB92BF;
+}
